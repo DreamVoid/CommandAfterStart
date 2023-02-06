@@ -1,0 +1,8 @@
+name: ${project.name}
+author: DreamVoid
+description: ${project.description}
+main: me.dreamvoid.commandafterstart.main
+version: ${project.version}
+api-version: 1.13
+prefix: DreamVoidPlugin
+webside: ${project.url}

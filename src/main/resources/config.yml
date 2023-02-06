@@ -1,0 +1,6 @@
+# 延迟秒数
+delay: 10
+# 指令列表
+commands:
+  - some-command
+  - command-some
